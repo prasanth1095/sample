@@ -28,7 +28,7 @@ module.exports = {
     'no-else-return': "error",
     'no-empty-function': "error",
     'no-empty-pattern': "error",
-    'no-magic-numbers': "error",
+    // 'no-magic-numbers': "error",
     'no-multi-spaces': "error",
     'global-require': "error",
     'handle-callback-err': "error",
